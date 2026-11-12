@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemini CLI
 
 This project reads `GEMINI_API_KEY` from `.env` and sends a prompt to the Gemini API.
@@ -18,3 +19,6 @@ Flash Lite release. To use a different available model:
 ```
 
 Keep `.env` private; it is already ignored by Git.
+=======
+# gen-ai-s10
+>>>>>>> d12938df0886d2299c30772cbe02b1038f78c776
